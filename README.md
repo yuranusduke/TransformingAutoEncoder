@@ -1,6 +1,6 @@
 # ***Transforming Auto-Encoders***
 
-Simple implementation of paper <Transforming Auto-Encoders> by G. E. Hinton, A. Krizhevsky and S. D. Wang.
+Simple implementation of paper ***Transforming Auto-Encoders*** by G. E. Hinton, A. Krizhevsky and S. D. Wang.
 
 Paper addr: http://www.cs.utoronto.ca/~hinton/absps/transauto6.pdf
 
